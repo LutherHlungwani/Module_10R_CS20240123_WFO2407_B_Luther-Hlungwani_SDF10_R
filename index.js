@@ -1,7 +1,4 @@
-/*
-Challenge:
-Make it so that when you click the 'Add to cart' button, whatever is written in the input field should be console logged.
-*/
+
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.4/firebase-app.js"
 import { getDatabase,
